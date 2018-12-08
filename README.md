@@ -17,5 +17,6 @@ Since I study in Europe all symbols included are the European types and
 should look at least similar to the symbols specfied by some DIN or ISO standard.
 It should be noted that I did not care about full compliance with the standards.
 
+## Requests
 If you need any symbols, simply open an issue and link to an image of a missing
 symbol or modify the file yourself and open a pull request.
